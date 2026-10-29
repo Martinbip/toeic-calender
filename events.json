@@ -1,0 +1,10 @@
+[
+ {
+  "uid": "toeic-setup",
+  "start": "2026-10-30T07:30:00",
+  "end": "2026-10-30T07:40:00",
+  "summary": "✅ Lịch TOEIC đã kết nối",
+  "description": "Sự kiện thử: thấy dòng này trên iPhone là lịch đăng ký hoạt động.\nTừ 30/10: 7:45 bài học (từ vựng + ngữ pháp) ghi lên lịch; 21:30 và CN bài kiểm tra gửi email.",
+  "alarm_minutes": 0
+ }
+]
